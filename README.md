@@ -1,16 +1,36 @@
-## Hi there 👋
+GitHub Username:
+utkarshnagoshe2-hue
 
-<!--
-**utkarshnagoshe2-hue/utkarshnagoshe2-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Repository:
+utkarshnagoshe2-hue
+# Hi, I'm utkarsh 👋
 
-Here are some ideas to get you started:
+Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- GitHub
+- Render
+
+## Featured Project
+
+### RVPay
+
+A full-stack transaction management platform featuring:
+
+- User Authentication
+- Password Reset
+- Admin Panel
+- Beneficiaries
+- Transaction Management
+- MongoDB Database
+- Deployment on Render
+
+Live Demo:
+https://rvpay.onrender.com
